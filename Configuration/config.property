@@ -1,0 +1,7 @@
+ChromeDriver = "H:\\Testing\\Selenium\\chromedriver.exe"
+
+IEDriver = "H:\\Testing\\Selenium\\IEDriverServer.exe"
+
+URL = http://fashiontrend.myavactis.com
+
+ExcelPath ="H:\\Testing\\Selenium\\eclipse-workplace\\Maven-Demo-AID\\ApplicationTestData\\appdata.xlsx"
